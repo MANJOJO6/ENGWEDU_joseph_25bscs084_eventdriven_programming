@@ -1,0 +1,18 @@
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\bin\Debug\net10.0-windows\engwedu joseph 25bscs084.exe
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\bin\Debug\net10.0-windows\engwedu joseph 25bscs084.deps.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\bin\Debug\net10.0-windows\engwedu joseph 25bscs084.runtimeconfig.json
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\bin\Debug\net10.0-windows\engwedu joseph 25bscs084.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\bin\Debug\net10.0-windows\engwedu joseph 25bscs084.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu_joseph_25bscs084.Form1.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu_joseph_25bscs084.Resources.resources
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.vbproj.GenerateResource.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.AssemblyInfoInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.AssemblyInfo.vb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.vbproj.CoreCompileInputs.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\refint\engwedu joseph 25bscs084.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.pdb
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu joseph 25bscs084.genruntimeconfig.cache
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\ref\engwedu joseph 25bscs084.dll
+C:\Users\REV FATHER ROBERT\OneDrive\Desktop\ENGWEDU JOSEPH\engwedu joseph 25bscs084\obj\Debug\net10.0-windows\engwedu .4DCF254D.Up2Date
